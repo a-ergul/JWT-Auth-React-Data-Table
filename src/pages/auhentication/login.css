@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #6a839f;
+}
+
+.loginform {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+  font-family: "Fira Sans", sans-serif;
+  padding-top: 10%;
+}
+
+.form-wrapper {
+  background: #667d97;
+  width: 100%;
+
+  max-width: 550px;
+  margin: 4rem auto;
+  justify-content: center;
+  border-radius: 15px;
+}

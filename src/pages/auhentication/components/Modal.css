@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-openModal {
+  background: #3b4656;
+  color: #eee;
+  font-size: 1rem;
+  margin: 1rem;
+  padding: 0.5rem 1.8rem;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  outline: none;
+  cursor: pointer;
+}
+
+.modal-wrapper {
+  background: #6a839f;
+  width: 80%;
+  max-width: 500px;
+  margin: 4rem auto;
+  transition: all 0.5s ease;
+}
+
+.modal-header {
+  background: #3b4656;
+  color: #e2e7ec;
+  max-height: 60px;
+  align-items: center;
+  justify-content: last baseline;
+}
+
+.modal-header span {
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.modal-header p {
+  font-weight: bold;
+}

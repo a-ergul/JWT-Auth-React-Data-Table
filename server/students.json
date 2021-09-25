@@ -1,0 +1,2554 @@
+{
+  "cu": [
+    {
+      "id": "1",
+      "name": "Alpay",
+      "surname": "Ergül",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05452440928"
+    },
+    {
+      "id": "2",
+      "name": "Hakan",
+      "surname": "Yalnız",
+      "year": "1987",
+      "gender": "Erkek",
+      "point": "64",
+      "place": "Muğla",
+      "phone": "05453445928"
+    },
+    {
+      "id": "3",
+      "name": "Nazlı",
+      "surname": "Gül",
+      "year": "1996",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Adana",
+      "phone": "05432443428"
+    },
+    {
+      "id": "4",
+      "name": "Sena",
+      "surname": "Yanık",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "İstanbul",
+      "phone": "05415896589"
+    },
+    {
+      "id": "5",
+      "name": "Kazım",
+      "surname": "Şen",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "735",
+      "place": "Kırklareli",
+      "phone": "05425647895"
+    },
+    {
+      "id": "6",
+      "name": "Aleyna",
+      "surname": "Suna",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "72",
+      "place": "Edirne",
+      "phone": "05425693256"
+    },
+    {
+      "id": "7",
+      "name": "Erdem",
+      "surname": "Kansız",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "82",
+      "place": "Ankara",
+      "phone": "05329856936"
+    },
+    {
+      "id": "8",
+      "name": "Sabiha",
+      "surname": "Yünlü",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "65",
+      "place": "İzmir",
+      "phone": "05352480928"
+    },
+    {
+      "id": "9",
+      "name": "Volkan",
+      "surname": "Şener",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Zonguldak",
+      "phone": "05452693569"
+    },
+    {
+      "id": "10",
+      "name": "İnanç",
+      "surname": "Duman",
+      "year": "1996",
+      "gender": "Erkek",
+      "point": "100",
+      "place": "Bursa",
+      "phone": "05375896523"
+    },
+    {
+      "id": "11",
+      "name": "Sezen",
+      "surname": "Gül",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "Sinop",
+      "phone": "05412536598"
+    },
+    {
+      "id": "12",
+      "name": "Akın",
+      "surname": "Gülüç",
+      "year": "1998",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Manisa",
+      "phone": "05353698579"
+    }
+  ],
+  "ytu": [
+    {
+      "id": "1",
+      "name": "Aslı",
+      "surname": "Kural",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Tekirdağ",
+      "phone": "05436589657"
+    },
+    {
+      "id": "2",
+      "name": "Sevinç",
+      "surname": "Ak",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Bilecik",
+      "phone": "05436582436"
+    },
+    {
+      "id": "3",
+      "name": "Cihan",
+      "surname": "Akarpınar",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "55",
+      "place": "Çanakkale",
+      "phone": "05356984587"
+    },
+    {
+      "id": "4",
+      "name": "Hediye",
+      "surname": "Ergüler",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "İstanbul",
+      "phone": "05374586958"
+    },
+    {
+      "id": "5",
+      "name": "Rafi",
+      "surname": "Akaş",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "45",
+      "place": "Karabük",
+      "phone": "05452440928"
+    },
+    {
+      "id": "6",
+      "name": "Servet",
+      "surname": "Akçagunay",
+      "year": "1992",
+      "gender": "Erkek",
+      "point": "78",
+      "place": "Trabzon",
+      "phone": "05423695869"
+    },
+    {
+      "id": "7",
+      "name": "Ercüment",
+      "surname": "Akıncılar",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "46",
+      "place": "Kırklareli",
+      "phone": "05432444928"
+    },
+    {
+      "id": "8",
+      "name": "Mazlum",
+      "surname": "Altan",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "50",
+      "place": "Ankara",
+      "phone": "05442436828"
+    },
+    {
+      "id": "9",
+      "name": "Ayşen",
+      "surname": "Aksoy",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "30",
+      "place": "Ardahan",
+      "phone": "05455470928"
+    },
+    {
+      "id": "10",
+      "name": "Senem",
+      "surname": "Aksevim",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Kars",
+      "phone": "05442441928"
+    },
+    {
+      "id": "11",
+      "name": "Çisem",
+      "surname": "Al",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "25",
+      "place": "Antalya",
+      "phone": "05453440828"
+    },
+    {
+      "id": "12",
+      "name": "Mehmetcan",
+      "surname": "Akay",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Muğla",
+      "phone": "05452240728"
+    }
+  ],
+  "tedu": [
+    {
+      "id": "1",
+      "name": "Çisem",
+      "surname": "Atok",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Samsun",
+      "phone": "05325561256"
+    },
+    {
+      "id": "2",
+      "name": "Nur",
+      "surname": "Bağcı",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "35",
+      "place": "Samsun",
+      "phone": "05356985689"
+    },
+    {
+      "id": "3",
+      "name": "Elif",
+      "surname": "Ayrım",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Burdur",
+      "phone": "05452440928"
+    },
+    {
+      "id": "4",
+      "name": "Ateş",
+      "surname": "Ay",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Mardin",
+      "phone": "05412356958"
+    },
+    {
+      "id": "5",
+      "name": "Mustafa",
+      "surname": "Cihan",
+      "year": "1999",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kırklareli",
+      "phone": "05472562353"
+    },
+    {
+      "id": "6",
+      "name": "Murat",
+      "surname": "Kaan",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kstamonu",
+      "phone": "05312256895"
+    },
+    {
+      "id": "7",
+      "name": "Nehar",
+      "surname": "Avşar",
+      "year": "1991",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Sinop",
+      "phone": "05354589658"
+    },
+    {
+      "id": "8",
+      "name": "Şerife",
+      "surname": "Asil",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "55",
+      "place": "Kırklareli",
+      "phone": "05412362589"
+    },
+    {
+      "id": "9",
+      "name": "Emine",
+      "surname": "Güleç",
+      "year": "1999",
+      "gender": "Kadın",
+      "point": "88",
+      "place": "Hatay",
+      "phone": "05452440928"
+    },
+    {
+      "id": "10",
+      "name": "Cansev",
+      "surname": "Arat",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "100",
+      "place": "İstanbul",
+      "phone": "05456248798"
+    },
+    {
+      "id": "11",
+      "name": "İsmail",
+      "surname": "Abık",
+      "year": "1995",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Düzce",
+      "phone": "05324563256"
+    },
+    {
+      "id": "12",
+      "name": "Büşra",
+      "surname": "Altundal",
+      "year": "1998",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05421365898"
+    }
+  ],
+  "thku": [
+    {
+      "id": "1",
+      "name": "Alpay",
+      "surname": "Ergül",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05452440928"
+    },
+    {
+      "id": "2",
+      "name": "Hakan",
+      "surname": "Yalnız",
+      "year": "1987",
+      "gender": "Erkek",
+      "point": "64",
+      "place": "Muğla",
+      "phone": "05453445928"
+    },
+    {
+      "id": "3",
+      "name": "Nazlı",
+      "surname": "Gül",
+      "year": "1996",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Adana",
+      "phone": "05432443428"
+    },
+    {
+      "id": "4",
+      "name": "Sena",
+      "surname": "Yanık",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "İstanbul",
+      "phone": "05415896589"
+    },
+    {
+      "id": "5",
+      "name": "Kazım",
+      "surname": "Şen",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "735",
+      "place": "Kırklareli",
+      "phone": "05425647895"
+    },
+    {
+      "id": "6",
+      "name": "Aleyna",
+      "surname": "Suna",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "72",
+      "place": "Edirne",
+      "phone": "05425693256"
+    },
+    {
+      "id": "7",
+      "name": "Erdem",
+      "surname": "Kansız",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "82",
+      "place": "Ankara",
+      "phone": "05329856936"
+    },
+    {
+      "id": "8",
+      "name": "Sabiha",
+      "surname": "Yünlü",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "65",
+      "place": "İzmir",
+      "phone": "05352480928"
+    },
+    {
+      "id": "9",
+      "name": "Volkan",
+      "surname": "Şener",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Zonguldak",
+      "phone": "05452693569"
+    },
+    {
+      "id": "10",
+      "name": "İnanç",
+      "surname": "Duman",
+      "year": "1996",
+      "gender": "Erkek",
+      "point": "100",
+      "place": "Bursa",
+      "phone": "05375896523"
+    },
+    {
+      "id": "11",
+      "name": "Sezen",
+      "surname": "Gül",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "Sinop",
+      "phone": "05412536598"
+    }
+  ],
+  "akdu": [
+    {
+      "id": "1",
+      "name": "Çisem",
+      "surname": "Atok",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Samsun",
+      "phone": "05325561256"
+    },
+    {
+      "id": "2",
+      "name": "Nur",
+      "surname": "Bağcı",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "35",
+      "place": "Samsun",
+      "phone": "05356985689"
+    },
+    {
+      "id": "3",
+      "name": "Elif",
+      "surname": "Ayrım",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Burdur",
+      "phone": "05452440928"
+    },
+    {
+      "id": "4",
+      "name": "Ateş",
+      "surname": "Ay",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Mardin",
+      "phone": "05412356958"
+    },
+    {
+      "id": "5",
+      "name": "Mustafa",
+      "surname": "Cihan",
+      "year": "1999",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kırklareli",
+      "phone": "05472562353"
+    },
+    {
+      "id": "6",
+      "name": "Murat",
+      "surname": "Kaan",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kstamonu",
+      "phone": "05312256895"
+    },
+    {
+      "id": "7",
+      "name": "Nehar",
+      "surname": "Avşar",
+      "year": "1991",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Sinop",
+      "phone": "05354589658"
+    },
+    {
+      "id": "8",
+      "name": "Şerife",
+      "surname": "Asil",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "55",
+      "place": "Kırklareli",
+      "phone": "05412362589"
+    },
+    {
+      "id": "9",
+      "name": "Emine",
+      "surname": "Güleç",
+      "year": "1999",
+      "gender": "Kadın",
+      "point": "88",
+      "place": "Hatay",
+      "phone": "05452440928"
+    },
+    {
+      "id": "10",
+      "name": "Cansev",
+      "surname": "Arat",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "100",
+      "place": "İstanbul",
+      "phone": "05456248798"
+    },
+    {
+      "id": "11",
+      "name": "İsmail",
+      "surname": "Abık",
+      "year": "1995",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Düzce",
+      "phone": "05324563256"
+    },
+    {
+      "id": "12",
+      "name": "Büşra",
+      "surname": "Altundal",
+      "year": "1998",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05421365898"
+    }
+  ],
+  "baun": [
+    {
+      "id": "1",
+      "name": "Alpay",
+      "surname": "Ergül",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05452440928"
+    },
+    {
+      "id": "2",
+      "name": "Hakan",
+      "surname": "Yalnız",
+      "year": "1987",
+      "gender": "Erkek",
+      "point": "64",
+      "place": "Muğla",
+      "phone": "05453445928"
+    },
+    {
+      "id": "3",
+      "name": "Nazlı",
+      "surname": "Gül",
+      "year": "1996",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Adana",
+      "phone": "05432443428"
+    },
+    {
+      "id": "4",
+      "name": "Sena",
+      "surname": "Yanık",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "İstanbul",
+      "phone": "05415896589"
+    },
+    {
+      "id": "5",
+      "name": "Kazım",
+      "surname": "Şen",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "735",
+      "place": "Kırklareli",
+      "phone": "05425647895"
+    },
+    {
+      "id": "6",
+      "name": "Aleyna",
+      "surname": "Suna",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "72",
+      "place": "Edirne",
+      "phone": "05425693256"
+    },
+    {
+      "id": "7",
+      "name": "Erdem",
+      "surname": "Kansız",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "82",
+      "place": "Ankara",
+      "phone": "05329856936"
+    },
+    {
+      "id": "8",
+      "name": "Sabiha",
+      "surname": "Yünlü",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "65",
+      "place": "İzmir",
+      "phone": "05352480928"
+    },
+    {
+      "id": "9",
+      "name": "Volkan",
+      "surname": "Şener",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Zonguldak",
+      "phone": "05452693569"
+    },
+    {
+      "id": "10",
+      "name": "İnanç",
+      "surname": "Duman",
+      "year": "1996",
+      "gender": "Erkek",
+      "point": "100",
+      "place": "Bursa",
+      "phone": "05375896523"
+    },
+    {
+      "id": "11",
+      "name": "Sezen",
+      "surname": "Gül",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "Sinop",
+      "phone": "05412536598"
+    },
+    {
+      "id": "12",
+      "name": "Akın",
+      "surname": "Gülüç",
+      "year": "1998",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Manisa",
+      "phone": "05353698579"
+    }
+  ],
+  "atu": [
+    {
+      "id": "1",
+      "name": "Aslı",
+      "surname": "Kural",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Tekirdağ",
+      "phone": "05436589658"
+    },
+    {
+      "id": "2",
+      "name": "Sevinç",
+      "surname": "Ak",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Bilecik",
+      "phone": "05436582436"
+    },
+    {
+      "id": "3",
+      "name": "Cihan",
+      "surname": "Akarpınar",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "55",
+      "place": "Çanakkale",
+      "phone": "05356984587"
+    },
+    {
+      "id": "4",
+      "name": "Hediye",
+      "surname": "Ergüler",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "İstanbul",
+      "phone": "05374586958"
+    },
+    {
+      "id": "5",
+      "name": "Rafi",
+      "surname": "Akaş",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "45",
+      "place": "Karabük",
+      "phone": "05452440928"
+    },
+    {
+      "id": "6",
+      "name": "Servet",
+      "surname": "Akçagunay",
+      "year": "1992",
+      "gender": "Erkek",
+      "point": "78",
+      "place": "Trabzon",
+      "phone": "05423695869"
+    },
+    {
+      "id": "7",
+      "name": "Ercüment",
+      "surname": "Akıncılar",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "46",
+      "place": "Kırklareli",
+      "phone": "05432444928"
+    },
+    {
+      "id": "8",
+      "name": "Mazlum",
+      "surname": "Altan",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "50",
+      "place": "Ankara",
+      "phone": "05442436828"
+    },
+    {
+      "id": "9",
+      "name": "Ayşen",
+      "surname": "Aksoy",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "30",
+      "place": "Ardahan",
+      "phone": "05455470928"
+    },
+    {
+      "id": "10",
+      "name": "Senem",
+      "surname": "Aksevim",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Kars",
+      "phone": "05442441928"
+    },
+    {
+      "id": "11",
+      "name": "Çisem",
+      "surname": "Al",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "25",
+      "place": "Antalya",
+      "phone": "05453440828"
+    },
+    {
+      "id": "12",
+      "name": "Mehmetcan",
+      "surname": "Akay",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Muğla",
+      "phone": "05452240728"
+    }
+  ],
+  "brt": [
+    {
+      "id": "1",
+      "name": "Alpay",
+      "surname": "Ergül",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05452440928"
+    },
+    {
+      "id": "2",
+      "name": "Hakan",
+      "surname": "Yalnız",
+      "year": "1987",
+      "gender": "Erkek",
+      "point": "64",
+      "place": "Muğla",
+      "phone": "05453445928"
+    },
+    {
+      "id": "3",
+      "name": "Nazlı",
+      "surname": "Gül",
+      "year": "1996",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Adana",
+      "phone": "05432443428"
+    },
+    {
+      "id": "4",
+      "name": "Sena",
+      "surname": "Yanık",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "İstanbul",
+      "phone": "05415896589"
+    },
+    {
+      "id": "5",
+      "name": "Kazım",
+      "surname": "Şen",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "735",
+      "place": "Kırklareli",
+      "phone": "05425647895"
+    },
+    {
+      "id": "6",
+      "name": "Aleyna",
+      "surname": "Suna",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "72",
+      "place": "Edirne",
+      "phone": "05425693256"
+    },
+    {
+      "id": "7",
+      "name": "Erdem",
+      "surname": "Kansız",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "82",
+      "place": "Ankara",
+      "phone": "05329856936"
+    },
+    {
+      "id": "8",
+      "name": "Sabiha",
+      "surname": "Yünlü",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "65",
+      "place": "İzmir",
+      "phone": "05352480928"
+    },
+    {
+      "id": "9",
+      "name": "Volkan",
+      "surname": "Şener",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Zonguldak",
+      "phone": "05452693569"
+    },
+    {
+      "id": "10",
+      "name": "İnanç",
+      "surname": "Duman",
+      "year": "1996",
+      "gender": "Erkek",
+      "point": "100",
+      "place": "Bursa",
+      "phone": "05375896523"
+    },
+    {
+      "id": "11",
+      "name": "Sezen",
+      "surname": "Gül",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "Sinop",
+      "phone": "05412536598"
+    },
+    {
+      "id": "12",
+      "name": "Akın",
+      "surname": "Gülüç",
+      "year": "1998",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Manisa",
+      "phone": "05353698579"
+    }
+  ],
+  "bu": [
+    {
+      "id": "1",
+      "name": "Aslı",
+      "surname": "Kural",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Tekirdağ",
+      "phone": "05436589658"
+    },
+    {
+      "id": "2",
+      "name": "Sevinç",
+      "surname": "Ak",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Bilecik",
+      "phone": "05436582436"
+    },
+    {
+      "id": "3",
+      "name": "Cihan",
+      "surname": "Akarpınar",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "55",
+      "place": "Çanakkale",
+      "phone": "05356984587"
+    },
+    {
+      "id": "4",
+      "name": "Hediye",
+      "surname": "Ergüler",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "İstanbul",
+      "phone": "05374586958"
+    },
+    {
+      "id": "5",
+      "name": "Rafi",
+      "surname": "Akaş",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "45",
+      "place": "Karabük",
+      "phone": "05452440928"
+    },
+    {
+      "id": "6",
+      "name": "Servet",
+      "surname": "Akçagunay",
+      "year": "1992",
+      "gender": "Erkek",
+      "point": "78",
+      "place": "Trabzon",
+      "phone": "05423695869"
+    },
+    {
+      "id": "7",
+      "name": "Ercüment",
+      "surname": "Akıncılar",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "46",
+      "place": "Kırklareli",
+      "phone": "05432444928"
+    },
+    {
+      "id": "8",
+      "name": "Mazlum",
+      "surname": "Altan",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "50",
+      "place": "Ankara",
+      "phone": "05442436828"
+    },
+    {
+      "id": "9",
+      "name": "Ayşen",
+      "surname": "Aksoy",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "30",
+      "place": "Ardahan",
+      "phone": "05455470928"
+    },
+    {
+      "id": "10",
+      "name": "Senem",
+      "surname": "Aksevim",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Kars",
+      "phone": "05442441928"
+    },
+    {
+      "id": "11",
+      "name": "Çisem",
+      "surname": "Al",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "25",
+      "place": "Antalya",
+      "phone": "05453440828"
+    },
+    {
+      "id": "12",
+      "name": "Mehmetcan",
+      "surname": "Akay",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Muğla",
+      "phone": "05452240728"
+    }
+  ],
+  "boun": [
+    {
+      "id": "1",
+      "name": "Alpay",
+      "surname": "Ergül",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05452440928"
+    },
+    {
+      "id": "2",
+      "name": "Hakan",
+      "surname": "Yalnız",
+      "year": "1987",
+      "gender": "Erkek",
+      "point": "64",
+      "place": "Muğla",
+      "phone": "05453445928"
+    },
+    {
+      "id": "3",
+      "name": "Nazlı",
+      "surname": "Gül",
+      "year": "1996",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Adana",
+      "phone": "05432443428"
+    },
+    {
+      "id": "4",
+      "name": "Sena",
+      "surname": "Yanık",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "İstanbul",
+      "phone": "05415896589"
+    },
+    {
+      "id": "5",
+      "name": "Kazım",
+      "surname": "Şen",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "735",
+      "place": "Kırklareli",
+      "phone": "05425647895"
+    },
+    {
+      "id": "6",
+      "name": "Aleyna",
+      "surname": "Suna",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "72",
+      "place": "Edirne",
+      "phone": "05425693256"
+    },
+    {
+      "id": "7",
+      "name": "Erdem",
+      "surname": "Kansız",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "82",
+      "place": "Ankara",
+      "phone": "05329856936"
+    },
+    {
+      "id": "8",
+      "name": "Sabiha",
+      "surname": "Yünlü",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "65",
+      "place": "İzmir",
+      "phone": "05352480928"
+    },
+    {
+      "id": "9",
+      "name": "Volkan",
+      "surname": "Şener",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Zonguldak",
+      "phone": "05452693569"
+    },
+    {
+      "id": "10",
+      "name": "İnanç",
+      "surname": "Duman",
+      "year": "1996",
+      "gender": "Erkek",
+      "point": "100",
+      "place": "Bursa",
+      "phone": "05375896523"
+    },
+    {
+      "id": "11",
+      "name": "Sezen",
+      "surname": "Gül",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "Sinop",
+      "phone": "05412536598"
+    },
+    {
+      "id": "12",
+      "name": "Akın",
+      "surname": "Gülüç",
+      "year": "1998",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Manisa",
+      "phone": "05353698579"
+    }
+  ],
+  "iou": [
+    {
+      "id": "1",
+      "name": "Çisem",
+      "surname": "Atok",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Samsun",
+      "phone": "05325561256"
+    },
+    {
+      "id": "2",
+      "name": "Nur",
+      "surname": "Bağcı",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "35",
+      "place": "Samsun",
+      "phone": "05356985689"
+    },
+    {
+      "id": "3",
+      "name": "Elif",
+      "surname": "Ayrım",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Burdur",
+      "phone": "05452440928"
+    },
+    {
+      "id": "4",
+      "name": "Ateş",
+      "surname": "Ay",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Mardin",
+      "phone": "05412356958"
+    },
+    {
+      "id": "5",
+      "name": "Mustafa",
+      "surname": "Cihan",
+      "year": "1999",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kırklareli",
+      "phone": "05472562353"
+    },
+    {
+      "id": "6",
+      "name": "Murat",
+      "surname": "Kaan",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kstamonu",
+      "phone": "05312256895"
+    },
+    {
+      "id": "7",
+      "name": "Nehar",
+      "surname": "Avşar",
+      "year": "1991",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Sinop",
+      "phone": "05354589658"
+    },
+    {
+      "id": "8",
+      "name": "Şerife",
+      "surname": "Asil",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "55",
+      "place": "Kırklareli",
+      "phone": "05412362589"
+    },
+    {
+      "id": "9",
+      "name": "Emine",
+      "surname": "Güleç",
+      "year": "1999",
+      "gender": "Kadın",
+      "point": "88",
+      "place": "Hatay",
+      "phone": "05452440928"
+    },
+    {
+      "id": "10",
+      "name": "Cansev",
+      "surname": "Arat",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "100",
+      "place": "İstanbul",
+      "phone": "05456248798"
+    },
+    {
+      "id": "11",
+      "name": "İsmail",
+      "surname": "Abık",
+      "year": "1995",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Düzce",
+      "phone": "05324563256"
+    },
+    {
+      "id": "12",
+      "name": "Büşra",
+      "surname": "Altundal",
+      "year": "1998",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05421365898"
+    }
+  ],
+  "kayu": [
+    {
+      "id": "1",
+      "name": "Aslı",
+      "surname": "Kural",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Tekirdağ",
+      "phone": "05436589658"
+    },
+    {
+      "id": "2",
+      "name": "Sevinç",
+      "surname": "Ak",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Bilecik",
+      "phone": "05436582436"
+    },
+    {
+      "id": "3",
+      "name": "Cihan",
+      "surname": "Akarpınar",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "55",
+      "place": "Çanakkale",
+      "phone": "05356984587"
+    },
+    {
+      "id": "4",
+      "name": "Hediye",
+      "surname": "Ergüler",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "İstanbul",
+      "phone": "05374586958"
+    },
+    {
+      "id": "5",
+      "name": "Rafi",
+      "surname": "Akaş",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "45",
+      "place": "Karabük",
+      "phone": "05452440928"
+    },
+    {
+      "id": "6",
+      "name": "Servet",
+      "surname": "Akçagunay",
+      "year": "1992",
+      "gender": "Erkek",
+      "point": "78",
+      "place": "Trabzon",
+      "phone": "05423695869"
+    },
+    {
+      "id": "7",
+      "name": "Ercüment",
+      "surname": "Akıncılar",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "46",
+      "place": "Kırklareli",
+      "phone": "05432444928"
+    },
+    {
+      "id": "8",
+      "name": "Mazlum",
+      "surname": "Altan",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "50",
+      "place": "Ankara",
+      "phone": "05442436828"
+    },
+    {
+      "id": "9",
+      "name": "Ayşen",
+      "surname": "Aksoy",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "30",
+      "place": "Ardahan",
+      "phone": "05455470928"
+    },
+    {
+      "id": "10",
+      "name": "Senem",
+      "surname": "Aksevim",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Kars",
+      "phone": "05442441928"
+    },
+    {
+      "id": "11",
+      "name": "Çisem",
+      "surname": "Al",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "25",
+      "place": "Antalya",
+      "phone": "05453440828"
+    },
+    {
+      "id": "12",
+      "name": "Mehmetcan",
+      "surname": "Akay",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Muğla",
+      "phone": "05452240728"
+    }
+  ],
+  "klu": [
+    {
+      "id": "1",
+      "name": "Alpay",
+      "surname": "Ergül",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05452440928"
+    },
+    {
+      "id": "2",
+      "name": "Hakan",
+      "surname": "Yalnız",
+      "year": "1987",
+      "gender": "Erkek",
+      "point": "64",
+      "place": "Muğla",
+      "phone": "05453445928"
+    },
+    {
+      "id": "3",
+      "name": "Nazlı",
+      "surname": "Gül",
+      "year": "1996",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Adana",
+      "phone": "05432443428"
+    },
+    {
+      "id": "4",
+      "name": "Sena",
+      "surname": "Yanık",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "İstanbul",
+      "phone": "05415896589"
+    },
+    {
+      "id": "5",
+      "name": "Kazım",
+      "surname": "Şen",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "735",
+      "place": "Kırklareli",
+      "phone": "05425647895"
+    },
+    {
+      "id": "6",
+      "name": "Aleyna",
+      "surname": "Suna",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "72",
+      "place": "Edirne",
+      "phone": "05425693256"
+    },
+    {
+      "id": "7",
+      "name": "Erdem",
+      "surname": "Kansız",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "82",
+      "place": "Ankara",
+      "phone": "05329856936"
+    },
+    {
+      "id": "8",
+      "name": "Sabiha",
+      "surname": "Yünlü",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "65",
+      "place": "İzmir",
+      "phone": "05352480928"
+    },
+    {
+      "id": "9",
+      "name": "Volkan",
+      "surname": "Şener",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Zonguldak",
+      "phone": "05452693569"
+    },
+    {
+      "id": "10",
+      "name": "İnanç",
+      "surname": "Duman",
+      "year": "1996",
+      "gender": "Erkek",
+      "point": "100",
+      "place": "Bursa",
+      "phone": "05375896523"
+    },
+    {
+      "id": "11",
+      "name": "Sezen",
+      "surname": "Gül",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "Sinop",
+      "phone": "05412536598"
+    },
+    {
+      "id": "12",
+      "name": "Akın",
+      "surname": "Gülüç",
+      "year": "1998",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Manisa",
+      "phone": "05353698579"
+    }
+  ],
+  "kmyo": [
+    {
+      "id": "1",
+      "name": "Aslı",
+      "surname": "Kural",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Tekirdağ",
+      "phone": "05436589658"
+    },
+    {
+      "id": "2",
+      "name": "Sevinç",
+      "surname": "Ak",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Bilecik",
+      "phone": "05436582436"
+    },
+    {
+      "id": "3",
+      "name": "Cihan",
+      "surname": "Akarpınar",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "55",
+      "place": "Çanakkale",
+      "phone": "05356984587"
+    },
+    {
+      "id": "4",
+      "name": "Hediye",
+      "surname": "Ergüler",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "İstanbul",
+      "phone": "05374586958"
+    },
+    {
+      "id": "5",
+      "name": "Rafi",
+      "surname": "Akaş",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "45",
+      "place": "Karabük",
+      "phone": "05452440928"
+    },
+    {
+      "id": "6",
+      "name": "Servet",
+      "surname": "Akçagunay",
+      "year": "1992",
+      "gender": "Erkek",
+      "point": "78",
+      "place": "Trabzon",
+      "phone": "05423695869"
+    },
+    {
+      "id": "7",
+      "name": "Ercüment",
+      "surname": "Akıncılar",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "46",
+      "place": "Kırklareli",
+      "phone": "05432444928"
+    },
+    {
+      "id": "8",
+      "name": "Mazlum",
+      "surname": "Altan",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "50",
+      "place": "Ankara",
+      "phone": "05442436828"
+    },
+    {
+      "id": "9",
+      "name": "Ayşen",
+      "surname": "Aksoy",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "30",
+      "place": "Ardahan",
+      "phone": "05455470928"
+    },
+    {
+      "id": "10",
+      "name": "Senem",
+      "surname": "Aksevim",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Kars",
+      "phone": "05442441928"
+    },
+    {
+      "id": "11",
+      "name": "Çisem",
+      "surname": "Al",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "25",
+      "place": "Antalya",
+      "phone": "05453440828"
+    },
+    {
+      "id": "12",
+      "name": "Mehmetcan",
+      "surname": "Akay",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Muğla",
+      "phone": "05452240728"
+    }
+  ],
+  "nku": [
+    {
+      "id": "1",
+      "name": "Çisem",
+      "surname": "Atok",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Samsun",
+      "phone": "05325561256"
+    },
+    {
+      "id": "2",
+      "name": "Nur",
+      "surname": "Bağcı",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "35",
+      "place": "Samsun",
+      "phone": "05356985689"
+    },
+    {
+      "id": "3",
+      "name": "Elif",
+      "surname": "Ayrım",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Burdur",
+      "phone": "05452440928"
+    },
+    {
+      "id": "4",
+      "name": "Ateş",
+      "surname": "Ay",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Mardin",
+      "phone": "05412356958"
+    },
+    {
+      "id": "5",
+      "name": "Mustafa",
+      "surname": "Cihan",
+      "year": "1999",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kırklareli",
+      "phone": "05472562353"
+    },
+    {
+      "id": "6",
+      "name": "Murat",
+      "surname": "Kaan",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kstamonu",
+      "phone": "05312256895"
+    },
+    {
+      "id": "7",
+      "name": "Nehar",
+      "surname": "Avşar",
+      "year": "1991",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Sinop",
+      "phone": "05354589658"
+    },
+    {
+      "id": "8",
+      "name": "Şerife",
+      "surname": "Asil",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "55",
+      "place": "Kırklareli",
+      "phone": "05412362589"
+    },
+    {
+      "id": "9",
+      "name": "Emine",
+      "surname": "Güleç",
+      "year": "1999",
+      "gender": "Kadın",
+      "point": "88",
+      "place": "Hatay",
+      "phone": "05452440928"
+    },
+    {
+      "id": "10",
+      "name": "Cansev",
+      "surname": "Arat",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "100",
+      "place": "İstanbul",
+      "phone": "05456248798"
+    },
+    {
+      "id": "11",
+      "name": "İsmail",
+      "surname": "Abık",
+      "year": "1995",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Düzce",
+      "phone": "05324563256"
+    },
+    {
+      "id": "12",
+      "name": "Büşra",
+      "surname": "Altundal",
+      "year": "1998",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05421365898"
+    }
+  ],
+  "kostu": [
+    {
+      "id": "1",
+      "name": "Alpay",
+      "surname": "Ergül",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05452440928"
+    },
+    {
+      "id": "2",
+      "name": "Hakan",
+      "surname": "Yalnız",
+      "year": "1987",
+      "gender": "Erkek",
+      "point": "64",
+      "place": "Muğla",
+      "phone": "05453445928"
+    },
+    {
+      "id": "3",
+      "name": "Nazlı",
+      "surname": "Gül",
+      "year": "1996",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Adana",
+      "phone": "05432443428"
+    },
+    {
+      "id": "4",
+      "name": "Sena",
+      "surname": "Yanık",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "İstanbul",
+      "phone": "05415896589"
+    },
+    {
+      "id": "5",
+      "name": "Kazım",
+      "surname": "Şen",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "735",
+      "place": "Kırklareli",
+      "phone": "05425647895"
+    },
+    {
+      "id": "6",
+      "name": "Aleyna",
+      "surname": "Suna",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "72",
+      "place": "Edirne",
+      "phone": "05425693256"
+    },
+    {
+      "id": "7",
+      "name": "Erdem",
+      "surname": "Kansız",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "82",
+      "place": "Ankara",
+      "phone": "05329856936"
+    },
+    {
+      "id": "8",
+      "name": "Sabiha",
+      "surname": "Yünlü",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "65",
+      "place": "İzmir",
+      "phone": "05352480928"
+    },
+    {
+      "id": "9",
+      "name": "Volkan",
+      "surname": "Şener",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Zonguldak",
+      "phone": "05452693569"
+    },
+    {
+      "id": "10",
+      "name": "İnanç",
+      "surname": "Duman",
+      "year": "1996",
+      "gender": "Erkek",
+      "point": "100",
+      "place": "Bursa",
+      "phone": "05375896523"
+    },
+    {
+      "id": "11",
+      "name": "Sezen",
+      "surname": "Gül",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "Sinop",
+      "phone": "05412536598"
+    },
+    {
+      "id": "12",
+      "name": "Akın",
+      "surname": "Gülüç",
+      "year": "1998",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Manisa",
+      "phone": "05353698579"
+    }
+  ],
+  "kau": [
+    {
+      "id": "1",
+      "name": "Aslı",
+      "surname": "Kural",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Tekirdağ",
+      "phone": "05436589658"
+    },
+    {
+      "id": "2",
+      "name": "Sevinç",
+      "surname": "Ak",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Bilecik",
+      "phone": "05436582436"
+    },
+    {
+      "id": "3",
+      "name": "Cihan",
+      "surname": "Akarpınar",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "55",
+      "place": "Çanakkale",
+      "phone": "05356984587"
+    },
+    {
+      "id": "4",
+      "name": "Hediye",
+      "surname": "Ergüler",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "İstanbul",
+      "phone": "05374586958"
+    },
+    {
+      "id": "5",
+      "name": "Rafi",
+      "surname": "Akaş",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "45",
+      "place": "Karabük",
+      "phone": "05452440928"
+    },
+    {
+      "id": "6",
+      "name": "Servet",
+      "surname": "Akçagunay",
+      "year": "1992",
+      "gender": "Erkek",
+      "point": "78",
+      "place": "Trabzon",
+      "phone": "05423695869"
+    },
+    {
+      "id": "7",
+      "name": "Ercüment",
+      "surname": "Akıncılar",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "46",
+      "place": "Kırklareli",
+      "phone": "05432444928"
+    },
+    {
+      "id": "8",
+      "name": "Mazlum",
+      "surname": "Altan",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "50",
+      "place": "Ankara",
+      "phone": "05442436828"
+    },
+    {
+      "id": "9",
+      "name": "Ayşen",
+      "surname": "Aksoy",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "30",
+      "place": "Ardahan",
+      "phone": "05455470928"
+    },
+    {
+      "id": "10",
+      "name": "Senem",
+      "surname": "Aksevim",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Kars",
+      "phone": "05442441928"
+    },
+    {
+      "id": "11",
+      "name": "Çisem",
+      "surname": "Al",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "25",
+      "place": "Antalya",
+      "phone": "05453440828"
+    },
+    {
+      "id": "12",
+      "name": "Mehmetcan",
+      "surname": "Akay",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Muğla",
+      "phone": "05452240728"
+    }
+  ],
+  "ktun": [
+    {
+      "id": "1",
+      "name": "Çisem",
+      "surname": "Atok",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Samsun",
+      "phone": "05325561256"
+    },
+    {
+      "id": "2",
+      "name": "Nur",
+      "surname": "Bağcı",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "35",
+      "place": "Samsun",
+      "phone": "05356985689"
+    },
+    {
+      "id": "3",
+      "name": "Elif",
+      "surname": "Ayrım",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Burdur",
+      "phone": "05452440928"
+    },
+    {
+      "id": "4",
+      "name": "Ateş",
+      "surname": "Ay",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Mardin",
+      "phone": "05412356958"
+    },
+    {
+      "id": "5",
+      "name": "Mustafa",
+      "surname": "Cihan",
+      "year": "1999",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kırklareli",
+      "phone": "05472562353"
+    },
+    {
+      "id": "6",
+      "name": "Murat",
+      "surname": "Kaan",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kstamonu",
+      "phone": "05312256895"
+    },
+    {
+      "id": "7",
+      "name": "Nehar",
+      "surname": "Avşar",
+      "year": "1991",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Sinop",
+      "phone": "05354589658"
+    },
+    {
+      "id": "8",
+      "name": "Şerife",
+      "surname": "Asil",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "55",
+      "place": "Kırklareli",
+      "phone": "05412362589"
+    },
+    {
+      "id": "9",
+      "name": "Emine",
+      "surname": "Güleç",
+      "year": "1999",
+      "gender": "Kadın",
+      "point": "88",
+      "place": "Hatay",
+      "phone": "05452440928"
+    },
+    {
+      "id": "10",
+      "name": "Cansev",
+      "surname": "Arat",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "100",
+      "place": "İstanbul",
+      "phone": "05456248798"
+    },
+    {
+      "id": "11",
+      "name": "İsmail",
+      "surname": "Abık",
+      "year": "1995",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Düzce",
+      "phone": "05324563256"
+    },
+    {
+      "id": "12",
+      "name": "Büşra",
+      "surname": "Altundal",
+      "year": "1998",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05421365898"
+    }
+  ],
+  "baibu": [
+    {
+      "id": "1",
+      "name": "Alpay",
+      "surname": "Ergül",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05452440928"
+    },
+    {
+      "id": "2",
+      "name": "Hakan",
+      "surname": "Yalnız",
+      "year": "1987",
+      "gender": "Erkek",
+      "point": "64",
+      "place": "Muğla",
+      "phone": "05453445928"
+    },
+    {
+      "id": "3",
+      "name": "Nazlı",
+      "surname": "Gül",
+      "year": "1996",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Adana",
+      "phone": "05432443428"
+    },
+    {
+      "id": "4",
+      "name": "Sena",
+      "surname": "Yanık",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "İstanbul",
+      "phone": "05415896589"
+    },
+    {
+      "id": "5",
+      "name": "Kazım",
+      "surname": "Şen",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "735",
+      "place": "Kırklareli",
+      "phone": "05425647895"
+    },
+    {
+      "id": "6",
+      "name": "Aleyna",
+      "surname": "Suna",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "72",
+      "place": "Edirne",
+      "phone": "05425693256"
+    },
+    {
+      "id": "7",
+      "name": "Erdem",
+      "surname": "Kansız",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "82",
+      "place": "Ankara",
+      "phone": "05329856936"
+    },
+    {
+      "id": "8",
+      "name": "Sabiha",
+      "surname": "Yünlü",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "65",
+      "place": "İzmir",
+      "phone": "05352480928"
+    },
+    {
+      "id": "9",
+      "name": "Volkan",
+      "surname": "Şener",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Zonguldak",
+      "phone": "05452693569"
+    },
+    {
+      "id": "10",
+      "name": "İnanç",
+      "surname": "Duman",
+      "year": "1996",
+      "gender": "Erkek",
+      "point": "100",
+      "place": "Bursa",
+      "phone": "05375896523"
+    },
+    {
+      "id": "11",
+      "name": "Sezen",
+      "surname": "Gül",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "Sinop",
+      "phone": "05412536598"
+    },
+    {
+      "id": "12",
+      "name": "Akın",
+      "surname": "Gülüç",
+      "year": "1998",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Manisa",
+      "phone": "05353698579"
+    }
+  ],
+  "adyu": [
+    {
+      "id": "1",
+      "name": "Çisem",
+      "surname": "Atok",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Samsun",
+      "phone": "05325561256"
+    },
+    {
+      "id": "2",
+      "name": "Nur",
+      "surname": "Bağcı",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "35",
+      "place": "Samsun",
+      "phone": "05356985689"
+    },
+    {
+      "id": "3",
+      "name": "Elif",
+      "surname": "Ayrım",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "85",
+      "place": "Burdur",
+      "phone": "05452440928"
+    },
+    {
+      "id": "4",
+      "name": "Ateş",
+      "surname": "Ay",
+      "year": "1994",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Mardin",
+      "phone": "05412356958"
+    },
+    {
+      "id": "5",
+      "name": "Mustafa",
+      "surname": "Cihan",
+      "year": "1999",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kırklareli",
+      "phone": "05472562353"
+    },
+    {
+      "id": "6",
+      "name": "Murat",
+      "surname": "Kaan",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "95",
+      "place": "Kstamonu",
+      "phone": "05312256895"
+    },
+    {
+      "id": "7",
+      "name": "Nehar",
+      "surname": "Avşar",
+      "year": "1991",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Sinop",
+      "phone": "05354589658"
+    },
+    {
+      "id": "8",
+      "name": "Şerife",
+      "surname": "Asil",
+      "year": "1997",
+      "gender": "Kadın",
+      "point": "55",
+      "place": "Kırklareli",
+      "phone": "05412362589"
+    },
+    {
+      "id": "9",
+      "name": "Emine",
+      "surname": "Güleç",
+      "year": "1999",
+      "gender": "Kadın",
+      "point": "88",
+      "place": "Hatay",
+      "phone": "05452440928"
+    },
+    {
+      "id": "10",
+      "name": "Cansev",
+      "surname": "Arat",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "100",
+      "place": "İstanbul",
+      "phone": "05456248798"
+    },
+    {
+      "id": "11",
+      "name": "İsmail",
+      "surname": "Abık",
+      "year": "1995",
+      "gender": "Erkek",
+      "point": "85",
+      "place": "Düzce",
+      "phone": "05324563256"
+    },
+    {
+      "id": "12",
+      "name": "Büşra",
+      "surname": "Altundal",
+      "year": "1998",
+      "gender": "Kadın",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05421365898"
+    }
+  ],
+  "atauni": [
+    {
+      "id": "1",
+      "name": "Alpay",
+      "surname": "Ergül",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "75",
+      "place": "Kırklareli",
+      "phone": "05452440928"
+    },
+    {
+      "id": "2",
+      "name": "Hakan",
+      "surname": "Yalnız",
+      "year": "1987",
+      "gender": "Erkek",
+      "point": "64",
+      "place": "Muğla",
+      "phone": "05453445928"
+    },
+    {
+      "id": "3",
+      "name": "Nazlı",
+      "surname": "Gül",
+      "year": "1996",
+      "gender": "Kadın",
+      "point": "45",
+      "place": "Adana",
+      "phone": "05432443428"
+    },
+    {
+      "id": "4",
+      "name": "Sena",
+      "surname": "Yanık",
+      "year": "1992",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "İstanbul",
+      "phone": "05415896589"
+    },
+    {
+      "id": "5",
+      "name": "Kazım",
+      "surname": "Şen",
+      "year": "1993",
+      "gender": "Erkek",
+      "point": "735",
+      "place": "Kırklareli",
+      "phone": "05425647895"
+    },
+    {
+      "id": "6",
+      "name": "Aleyna",
+      "surname": "Suna",
+      "year": "1995",
+      "gender": "Kadın",
+      "point": "72",
+      "place": "Edirne",
+      "phone": "05425693256"
+    },
+    {
+      "id": "7",
+      "name": "Erdem",
+      "surname": "Kansız",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "82",
+      "place": "Ankara",
+      "phone": "05329856936"
+    },
+    {
+      "id": "8",
+      "name": "Sabiha",
+      "surname": "Yünlü",
+      "year": "1993",
+      "gender": "Kadın",
+      "point": "65",
+      "place": "İzmir",
+      "phone": "05352480928"
+    },
+    {
+      "id": "9",
+      "name": "Volkan",
+      "surname": "Şener",
+      "year": "1997",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Zonguldak",
+      "phone": "05452693569"
+    },
+    {
+      "id": "10",
+      "name": "İnanç",
+      "surname": "Duman",
+      "year": "1996",
+      "gender": "Erkek",
+      "point": "100",
+      "place": "Bursa",
+      "phone": "05375896523"
+    },
+    {
+      "id": "11",
+      "name": "Sezen",
+      "surname": "Gül",
+      "year": "1994",
+      "gender": "Kadın",
+      "point": "95",
+      "place": "Sinop",
+      "phone": "05412536598"
+    },
+    {
+      "id": "12",
+      "name": "Akın",
+      "surname": "Gülüç",
+      "year": "1998",
+      "gender": "Erkek",
+      "point": "91",
+      "place": "Manisa",
+      "phone": "05353698579"
+    }
+  ]
+}

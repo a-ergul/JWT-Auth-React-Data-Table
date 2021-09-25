@@ -1,0 +1,193 @@
+{
+  "schools": [
+    {
+      "city": "Adana",
+      "name": "Çukurova Üniversitesi",
+      "tur": "Devlet",
+      "date": "1973",
+      "id": 1,
+      "url": "ÇÜ",
+      "content": "Çukurova Üniversitesi (ÇÜ), Adana şehir merkezine 15 kilometre uzaklıkta Seyhan gölü kıyısındaki kampüsünde eğitim-öğretim veren bir devlet üniversitesidir.Çukurova Üniversitesi'nde, çoğunluğu Adana'da bulunan 16 Fakülte, 1 Devlet Konservatuvarı, 5 Yüksekokulu, 13 Meslek Yüksekokulu, 3 Enstitüsü, 25 Araştırma ve Uygulama Merkezi bulunmaktadır.2012 yılı sonu itibarıyla Çukurova Üniversitesinde yaklaşık 1900 Akademik Personel, 29000’i lisans, 11500'ü ön lisans ve 4500’ü lisansüstü olmak üzere 45000 öğrencinin eğitim ve öğretiminde görev almaktadır."
+    },
+    {
+      "city": "İstanbul",
+      "name": "Yıldız Teknik Üniversitesi",
+      "tur": "Devlet",
+      "date": "1911",
+      "id": 2,
+      "url": "YTÜ",
+      "content": "Yıldız Teknik Üniversitesi (YTÜ), İstanbul, Türkiye'de yer alan; 1911 yılında Kondüktör Mekteb-i Âlîsi adıyla kurulmuş devlet üniversitesidir.Yıldız Teknik Üniversitesi bugün 25000'den fazla lisans, 9000'den fazla lisansüstü öğrenci ve 1700 civarında akademik personel ile akademik faaliyetlerini sürdürmektedir."
+    },
+    {
+      "city": "Ankara",
+      "name": "TED Üniversitesi",
+      "tur": "Vakıf",
+      "date": "2009",
+      "id": 3,
+      "url": "TEDÜ",
+      "content": "TED Üniversitesi, 7 Temmuz 2009'da Türk Eğitim Derneği Yükseköğrenim Vakfı tarafından kurulan bir vakıf üniversitesi. 2012-2013 akademik yılında alınan 320 öğrencisi ile eğitime başlamıştır. TED Üniversitesi'nde eğitim dili İngilizcedir. Türkiye'de Sabancı Üniversitesi'nden sonra liberal bilimler tarzı eğitim veren ikinci yükseköğretim kurumudur."
+    },
+    {
+      "city": "Ankara",
+      "name": "Türk Hava Kurumu Üniversitesi",
+      "tur": "Vakıf",
+      "date": "2011",
+      "id": 4,
+      "url": "THKÜ",
+      "content": "Türk Hava Kurumu Üniversitesi, 3 Mart 2011 tarihinde 27863 sayılı Resmî Gazetedeki 6114 sayılı kanunun yayımlanması ile Ankara ilinde kurulan üniversitedir. Üniversite, Türkiye'de kurulmuş ilk havacılık ve uzay bilimleri üniversitesi olma özelliğini taşımaktadır. 19 Mart 2011 tarihinde yapılan Mütevelli Heyet toplantısında Ünsal Ban rektör olarak seçilmiş, 05 Nisan 2011 tarihinde de onaylanarak THK Üniversitesinin ilk rektörü olmuştur."
+    },
+    {
+      "city": "Antalya",
+      "name": "Akdeniz Üniversitesi",
+      "tur": "Devlet",
+      "date": "1982",
+      "id": 5,
+      "url": "AKDÜ",
+      "content": "Akdeniz Üniversitesi, Antalya'da kurulu bir devlet üniversitesidir. 20 Temmuz 1982 yılında Batı Akdeniz bölgesindeki yükseköğretim kurumlarını da kapsayacak şekilde Antalya’da kurulmuştur. Türkiye'nin en köklü üniversitelerinden biridir. Kampüsünün geniş ve yeşil bir araziye sahip olması ve Konyaaltı Sahili'ne 15 dakikalık mesafede olması ile Boğaziçi Üniversitesi'nden sonra Türkiye'nin en güzel ikinci kampüsü seçilmiştir."
+    },
+    {
+      "name": "Balıkesir Üniversitesi",
+      "city": "Balıkesir",
+      "tur": "Devlet",
+      "date": "1992",
+      "id": 6,
+      "url": "BAÜN",
+      "content": "Balıkesir Üniversitesi (BAÜN), Balıkesir il sınırlarında faaliyet gösteren yükseköğretim kurumu. Balıkesir Üniversitesi kampüsü kent merkezine 17 km uzaklıkta Bigadiç yolunda bulunmaktadır."
+    },
+    {
+      "name": "Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi",
+      "city": "Adana",
+      "tur": "Devlet",
+      "date": "2011",
+      "id": 7,
+      "url": "ATÜ",
+      "content": "Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi (ATÜ), 2011 yılında Adana'da kurulan bir devlet üniversitesidir. Ayrıca Türkiye'deki 11 teknik üniversiteden biri olup, Türkiye Büyük Millet Meclisinin 31 Mart 2011 tarihinde çıkardığı 6218 Sayılı Kanunla kurulmuştur. ATÜ akademik olarak; 1 enstitü, 6 fakülte ve 1 yüksekokuldan oluşmaktadır"
+    },
+    {
+      "name": "Bartın Üniversitesi",
+      "city": "Bartın",
+      "tur": "Devlet",
+      "date": "2008",
+      "id": 8,
+      "url": "BRT",
+      "content": "Bartın Üniversitesi, Türkiye'nin Bartın ilinde bulunan bir üniversite.31/05/2008 tarih ve 26892 sayılı resmî Gazete ilan edilen 22/05/2008 tarih ve 5765 sayılı Kanun ile kurulan 9 devlet üniversitesinden biridir. "
+    },
+    {
+      "city": "Bingöl",
+      "name": "\tBingöl Üniversitesi",
+      "tur": "Devlet",
+      "date": "2007",
+      "id": 9,
+      "url": "BÜ",
+      "content": "Bingöl Üniversitesi Bingöl'de bulunan bir devlet üniversitesi. 29 Mayıs 2007 tarihinde kuruldu. Üniversite bünyesinde 9 fakülte, 1 yüksekokul, 5 enstitü, 6 meslek yüksekokulu, 24 araştırma ve uygulama merkezi bulunmaktadır.Bingöl Üniversitesi, kuruluşundan itibaren büyük işler başarmış olup, Web of Science veri tabanı verileri sonucunda 2019 yılında öğretim üyesi başına düşen yayın sayısı bakımından, Türkiye'deki 108 devlet üniversitesinin performansı sıralamasında 6. ve Doğu Anadolu Bölgesinde yer alan 15 üniversite arasında ise 1. sırada yer aldı."
+    },
+    {
+      "city": "İstanbul",
+      "name": "Boğaziçi Üniversitesi",
+      "tur": "Devlet",
+      "date": "1863",
+      "id": 10,
+      "url": "BOÜN",
+      "content": "Boğaziçi Üniversitesi, İstanbul'da yer alan bir devlet üniversitesi.16 Eylül 1863'te Cyrus Hamlin ve Christopher Robert tarafından öncülü Robert Koleji kuruldu. Güney Kampüs, yüz yılı aşkın bir süre koleje bağlı olarak kullanıldıktan sonra üzerinde bağımsız bir üniversite kurulması için 10 Eylül 1971'de Türkiye Cumhuriyeti'ne devredilerek Boğaziçi Üniversitesi kuruldu. Günümüzde toplam 1.672.106 m2'lik alana sahip olan ve altı yerleşkesi bulunan Boğaziçi Üniversitesi, İngilizce eğitim verir."
+    },
+    {
+      "city": "İstanbul",
+      "name": "İstanbul Okan Üniversitesi",
+      "tur": "Vakıf",
+      "date": "1999",
+      "id": 11,
+      "url": "İOÜ",
+      "content": "İstanbul Okan Üniversitesi, İstanbul'un Tuzla Akfırat'ta bulunan bir vakıf üniversitesidir. 1999 yılında kurulmuştur ve 2003-2004 akademik yılında eğitim-öğretime başlamıştır"
+    },
+    {
+      "city": "Kayseri",
+      "name": "Kayseri Üniversitesi",
+      "tur": "Devlet",
+      "date": "2018",
+      "id": 12,
+      "url": "\tKAYÜ",
+      "content": "Kayseri Üniversitesi 18 Mayıs 2018 tarihinde Erciyes Üniversitesi'ne bağlı çeşitli eğitim kurulumlarının birleştirilmesi ve yeni eğitim kurumlarının açılmasıyla Kayseri'de kurulmuştur."
+    },
+    {
+      "city": "Kırklareli",
+      "name": "Kırklareli Üniversitesi",
+      "tur": "Devlet",
+      "date": "2007",
+      "id": 13,
+      "url": "KLÜ",
+      "content": "Kırklareli Üniversitesi 5662 Sayılı Yükseköğretim Kurumları Teşkilatı Kanununda ve Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları Hakkında Kanun Hükmünde Kararname ile Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnameye Ekli Cetvellerde Değişiklik Yapılmasına Dair Kanunla kurulan ve 29 Mayıs 2007 tarihinde Ahmet Necdet Sezer tarafından onaylanan, 17 yeni üniversiteden biridir. Kırklareli ilinde bulunmaktadır."
+    },
+    {
+      "date": "2017",
+      "tur": "Vakıf",
+      "city": "Nevşehir",
+      "name": "Kapadokya Üniversitesi",
+      "id": 14,
+      "url": "KMYO",
+      "content": "Kapadokya Meslek Yüksekokulu (KMYO) değişen unvanı ile Kapadokya Üniversitesi,[1] 16 Eylül 2005 tarihinde İlke Eğitim ve Sağlık Vakfı'na bağlı olarak Yükseköğretim Kurulu Kararı doğrultusunda bölge kalkınma hedefleri paralelinde belirlenmiş olan beş programla eğitim - öğretim faaliyetlerine başlamıştır. Bakanlar Kurulu'nun 03.07.2008 tarihli kararı ile yeniden kurulan yüksekokulun[2] öğretim programlarının temelini bölge kalkınma programları (Kapadokya Programları), havacılık programları ve sağlık programları oluşturmaktadır."
+    },
+    {
+      "date": "2006",
+      "tur": "Devlet",
+      "name": "Tekirdağ Namık Kemal Üniversitesi",
+      "city": "Tekirdağ",
+      "id": 16,
+      "url": "NKÜ",
+      "content": "Tekirdağ Namık Kemal Üniversitesi, 1 Mart 2006 tarih ve 5467 sayılı yasayla, Tekirdağ'da kurulan devlet üniversitesi. Üniversite, Trakya Üniversitesi'nin Tekirdağ çevresindeki yerleşkenin ayrılarak, yeni bir üniversite kurulmasıyla meydana geldi. Bünyesinde 10 fakülte, 3 enstitü, 3 yüksekokul, 11 meslek yüksekokulu, çeşitli merkezler ve rektörlük birimleri, yaklaşık 28000 öğrenci, yaklaşık 5000 öğretim görevlisi barındırmaktadır. Merkez kampüsü Tekirdağ Süleymanpaşa, Değirmenaltı'nda bulunur."
+    },
+    {
+      "city": "Kocaeli",
+      "name": "Kocaeli Sağlık ve Teknoloji Üniversitesi",
+      "tur": "Vakıf",
+      "date": "2020",
+      "id": 17,
+      "url": "KOSTÜ",
+      "content": "Kocaeli Sağlık ve Teknoloji Üniversitesi, 2020-2021 öğretim yılı itibarıyla Kocaeli'de sağlık ağırlıklı öğretim yapan vakıf üniversitesi.2009 yılında Avrupa Eğitim Vakfı tarafından Avrupa Meslek Yüksekokulu adıyla İstanbul'da kuruldu. 2020 yılında isim değiştirerek Kocaeli'ye taşındı. Üniversite bünyesinde ön lisans, lisans ve yüksek lisans eğitimleri verilmektedir."
+    },
+    {
+      "city": "Kars",
+      "name": "Kafkas Üniversitesi",
+      "tur": "Devlet",
+      "date": "1992",
+      "id": 18,
+      "url": "KAÜ",
+      "content": "Kafkas Üniversitesi, 11 Temmuz 1992 tarihinde 3837 sayılı yasayla Kars'ta kurulmuş olan bir devlet üniversitesidir. Kafkas Üniversitesi'nde 10 Fakülte, 3 Yüksekokul, 7 Meslek Yüksekokulu ve 1 Devlet Konservatuvar bulunmaktadır."
+    },
+    {
+      "city": "Bolu",
+      "name": "ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "tur": "Devlet",
+      "date": "1992",
+      "url": "BAİBÜ",
+      "id": 19,
+      "content": "Bolu Abant İzzet Baysal Üniversitesi (BAİBÜ), 3 Temmuz 1992'de 3837 sayılı Kanun ile kurulmuş ilk vakıf destekli devlet üniversitesidir. Üniversite Bolu'nun hayırsever iş adamı İzzet Baysal tarafından kurulan İzzet Baysal Vakfı tarafından desteklenmektedir.Üniversitede 1500'e yakın öğretim elemanı, 900 civarında yönetim elemanı görev yapmaktadır. 4 enstitü, 16 fakülte, 2 yüksekokul, 8 meslek yüksekokuluna sahip olan Bolu Abant İzzet Baysal Üniversitesinde 30.000 civarında öğrenci eğitim görmektedir."
+    },
+    {
+      "name": "Adıyaman Üniversitesi",
+      "city": "Adıyaman",
+      "tur": "Devlet",
+      "date": "2006",
+      "url": "ADYÜ",
+      "id": 20,
+      "content": "Adıyaman Üniversitesi (ADYÜ), 2006 yılında kurulmuş, Adıyaman, Türkiye'de yer alan bir devlet üniversitesidir. Günümüzde ADYÜ, 13 fakülte, 1 konservatuvar, 3 enstitü, 3 yüksekokul, 6 meslek yüksekokulunda 22 bini aşan öğrencisi ve binin üzerindeki çalışanı ile eğitim-öğretim, araştırma-geliştirme ve uygulama-hizmet faaliyetlerini sürdürmektedir. 2012 yılında ISO 9001 belgesi alarak Türkiye'nin 2. ISO 9001 belgeli üniversitesi olmuştur."
+    },
+    {
+      "name": "KONYA TEKNİK ÜNİVERSİTESİ",
+      "city": "KONYA",
+      "url": "\tKTÜN",
+      "id": 21,
+      "tur": "DEVLET",
+      "date": "2018",
+      "content": "Konya Teknik Üniversitesi, 8 Mayıs 2018 tarih ve 30425 sayılı Resmi Gazete'de yayımlanmış olan 7141 sayılı kanunun yedinci maddesiyle 2809 sayılı kanuna eklenen Ek Madde-179 ile kurulmuş olan bir devlet üniversitesidir. Selçuk Üniversitesi'nden 2 fakülte ve 1 meslek yüksekokulunun bağlanmasıyla kurulmuştur. 2018-2019 yılında 5821 ön lisans, 8648 lisans, 1748 yüksek lisans, 397 doktora öğrencisi olmak üzere toplam 16624 öğrencisi bulunmaktadır"
+    },
+    {
+      "name": "Atatürk Üniversitesi",
+      "city": "Erzurum",
+      "tur": "Devlet",
+      "date": "1957",
+      "url": "\tATAÜNİ",
+      "id": 22,
+      "content": "Atatürk Üniversitesi, 1957 yılında Erzurum'da kurulmuş üniversitedir. Türkiye'nin en eski yedinci üniversitesidir. (Kuruluş Kanunu'nun Resmi gazetede yayınlanma tarihine göre altıncıdır.)"
+    }
+  ]
+}

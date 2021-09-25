@@ -1,0 +1,22 @@
+.registerform {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+  font-family: "Fira Sans", sans-serif;
+  padding-top: 10%;
+}
+
+.title {
+  color: aliceblue;
+  font-weight: 700;
+}
+.form-wrapper {
+  background: #667d97;
+  width: 100%;
+
+  max-width: 550px;
+  margin: 4rem auto;
+  justify-content: center;
+  border-radius: 15px;
+}
