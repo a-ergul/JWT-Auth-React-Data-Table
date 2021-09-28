@@ -1,6 +1,6 @@
 # Frontend Developer Study Case
 
-
+## Student Information ( students.json) is not real. The results were randomized.
 
 ## Available Scripts
 
@@ -27,5 +27,6 @@ The Student List will be added.
 ### `npm run auth`
 
 Run node server.js
+
 
 
