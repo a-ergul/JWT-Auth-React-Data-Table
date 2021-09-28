@@ -1,6 +1,6 @@
-# Frontend Developer Study Case
+### Student Information ( students.json) is not real. The results were randomized.
 
-## Student Information ( students.json) is not real. The results were randomized.
+# Frontend Developer Study Case
 
 ## Available Scripts
 
