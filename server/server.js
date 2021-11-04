@@ -92,4 +92,3 @@ server.listen(2000, () => {
   console.log("Her şey Yolunda :)");
 });
 
-//Source: https://www.bezkoder.com/react-jwt-auth/ , https://www.youtube.com/watch?v=UCTj-diBS-E&t=4290s
